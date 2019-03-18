@@ -1,2 +1,5 @@
-hfahf
-afjhashfj
+mkdir -p /home/joginder/PROJECT
+cd -p /home/joginder/PROJECT
+touch abc
+echo dasfafajflkajf >> abc
+
